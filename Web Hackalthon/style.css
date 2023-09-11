@@ -1,0 +1,377 @@
+#logot{
+    font-weight: bold;
+    color: #E53536;
+}
+#logott{
+    font-weight: bold;
+}
+#sign{
+    color: #E53536; 
+}
+#he{
+    color: #E53536; 
+}
+#h{
+    font-weight: bolder;
+}
+#lbtn{
+    color: #E53536; 
+}
+#btn{
+    border-radius: 255px;
+}#try{
+    color: white;
+   border: none;
+   padding: 15px 31px;
+   border-radius: 9px;
+   background-color: #E53536
+
+}
+#larka{
+    position: relative;
+    top: -33px;
+    height: 558px;
+    margin-left: 103px
+}#tex{
+    position: relative;
+    top: 76px;
+}
+#one{
+font-weight: bolder;
+}
+#how{
+    color: #E53536; 
+}
+.class{
+    position: relative;
+}
+
+    .cu {
+        height: 152px;
+        position: absolute;
+        top: 60px;
+        left: 60px;
+}
+.card2Img2{
+    top: 59px;
+    width: 20%;
+    position: absolute;
+    left: 50%;}
+#cuu{
+    height: 42px;
+    width: 45px;
+    position: relative;
+    top: 95px;
+    left: 166px;
+}
+#cuuu{
+    position: absolute;
+    top: 28px;
+}
+.u{
+    position: absolute;
+    top: 124px;
+    left: 58px;
+}
+#t{
+    padding-top: 345px;
+}
+#uuu{
+    position: absolute;
+    top: 128px;
+    left: 99px;
+}
+#y{
+    padding-top: 34px;
+}
+.card1Img1{
+    position: absolute;
+    top: 67px;
+    width: 40%;
+    left: 35%;
+}
+.card1Img2{
+    position: absolute;
+    top: 94px;
+    left: 24%;
+    width: 60%;
+}
+.card3Img1{
+    width: 62%;
+    left: 18%;
+    top: 29%;
+    position: absolute;
+}
+.card2Img1{
+    position: absolute;
+    top: 84px;
+    z-index: 1;
+    width: 27%;
+    left: 25%;
+}
+
+#textarea{
+
+    border: 3px #E53536 solid;
+}
+#nnnn{
+    border: 2px; color: black solid;
+    border-radius: 23px;
+}
+.hero-h1 {
+    font-family: Poppins;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 88px;
+    max-inline-size: 6in;
+    letter-spacing: -0.01em;
+    text-align: left;
+
+}
+
+#ready {
+    font-family: Roboto;
+    margin-bottom: 15%;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.005rem;
+    text-align: left;
+
+}
+#AI {
+    font-family: Poppins;
+    font-size: 62px;
+    font-weight: 600;
+    line-height: 88px;
+    letter-spacing: -0.05em;
+    text-align: left;
+}
+
+#hero-p {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.005em;
+    text-align: left;
+
+}
+
+#try-now {
+    background-color: #F86061;
+    padding: 15px 35px;
+    color: white;
+    text-decoration: none;
+    width: 186px;
+    height: 70px;
+    top: 669px;
+    left: 135px;
+    border-radius: 12px;
+
+}
+
+.card1Img1 {
+    position: absolute;
+    top: 67px;
+    width: 40%;
+    left: 35%;
+}
+
+.card1Img2 {
+    position: absolute;
+    top: 94px;
+    left: 24%;
+    width: 60%;
+}
+
+.card3Img1 {
+    width: 62%;
+    left: 18%;
+    top: 29%;
+    position: absolute;
+}
+
+.card2Img1 {
+    position: absolute;
+    top: 100px;
+    z-index: 1;
+    width: 26%;
+    left: 29%;
+}
+
+.card2Img2 {
+    top: 80px;
+    width: 17%;
+    position: absolute;
+    left: 53%;
+}
+
+
+/* Second */
+.second {
+    background: #FEF5F5;
+
+}
+
+#how-works {
+    color: #F54748;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    text-align: center;
+}
+
+#Click {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    max-block-size: 1in;
+    text-align: center;
+}
+
+
+#mic {
+    top: 18%;
+    left: 10%;
+    width: 96%;
+    position: relative;
+}
+
+#mic-ai {
+    padding-top: 25%;
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 59px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+#mic-started {
+    font-family: Roboto;
+    font-size: 87px;
+    font-weight: 900;
+    line-height: 102px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.or {
+    font-family: Poppins, sans-serif;
+    padding: 2%;
+    font-size: 23px;
+    font-weight: 300;
+    line-height: 16px;
+    text-align: center;
+}
+
+.speaker-con {
+    position: absolute;
+    left: 5%;
+}
+
+
+
+
+.lable-input {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.005em;
+    text-align: left;
+
+}
+
+.input-data {
+    height: 57px;
+    border: none;
+    width: auto;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #FDECEC;
+
+}
+
+.input-areas {
+    margin-left: 30%;
+}
+
+#generate-p {
+    display: inline-block;
+    max-inline-size: 5in;
+
+}
+.ttrr :hover{
+   text-decoration: underline;
+   color: aqua;
+}
+#generate {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #F86061;
+    padding: 20px 30px;
+    border-radius: 12px;
+    margin-left: 40%;
+}
+
+#d {
+    color: white;
+    background-color: #F86061;
+    margin-left: 13%;
+    padding: 20px 35px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.img-down{
+    z-index: -5;
+    position: absolute;
+    top: 3%;
+}
+#here-now{
+    padding-top: 20%;
+}
+#here {
+    font-family: Roboto;
+    color: #E53536;
+    margin-bottom: 0%;
+    font-size: 87px;
+    font-weight: 900;
+    line-height: 102px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+.arrowsa{
+    position: relative;
+    top: -111px;
+    left: 94px;
+}
+.ttrr{
+    border: 1px #E53536 solid;
+    border-radius: 5px;
+    color: white;
+    background-color: #E53536;
+    text-decoration: none;
+    padding: 6px 22px;
+}
